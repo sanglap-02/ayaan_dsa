@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ayaan DSA.iml" filepath="$PROJECT_DIR$/.idea/ayaan DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/class1/class1.iml" filepath="$PROJECT_DIR$/class1/class1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class2/class2.iml" filepath="$PROJECT_DIR$/class2/class2.iml" />
     </modules>
   </component>
 </project>
