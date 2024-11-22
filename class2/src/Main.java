@@ -33,12 +33,21 @@ public class Main {
         }
         return arr;
     }
+//
+//    public static int getDuplicate(int[] arr){
+//        int ans=-1;
+//        for(int i=0;i<arr.length;i++){
+//
+//        }
+//    }
 
-    public static int getDuplicate(int[] arr){
-        int ans=-1;
-        for(int i=0;i<arr.length;i++){
 
-        }
-    }
+
+
+    // data types
+    // conditionals
+    // loops
+    // functions
+    //class and objects
 
 }
