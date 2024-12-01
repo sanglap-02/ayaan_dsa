@@ -7,7 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/class2/class2.iml" filepath="$PROJECT_DIR$/class2/class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/class3/class3.iml" filepath="$PROJECT_DIR$/class3/class3.iml" />
       <module fileurl="file://$PROJECT_DIR$/class4-5/class4.iml" filepath="$PROJECT_DIR$/class4-5/class4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/class6-7/class6-7.iml" filepath="$PROJECT_DIR$/class6-7/class6-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class6/class6-7.iml" filepath="$PROJECT_DIR$/class6/class6-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class7-8/class7-8.iml" filepath="$PROJECT_DIR$/class7-8/class7-8.iml" />
     </modules>
   </component>
 </project>
