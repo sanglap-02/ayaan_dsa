@@ -41,6 +41,10 @@ public class Main {
 
         // Traversing through a linkedList
 
+        printList(first);
+
+
+
 
 
 
@@ -48,8 +52,22 @@ public class Main {
 
     }
 
-    static void printList(listNode head){
-        // print the Linked List
+    static void printList(listNode head) {
+
+
+        listNode point = head;
+
+        while (point != null) {
+            System.out.println(point.data);
+            point = point.next;
+        }
 
     }
+
+    static int lenght(listNode head){
+        //the lenght of the list
+
+
+    }
+
 }
