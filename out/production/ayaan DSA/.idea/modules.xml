@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ayaan DSA.iml" filepath="$PROJECT_DIR$/.idea/ayaan DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class1/class1.iml" filepath="$PROJECT_DIR$/class1/class1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class10-11/class10-11.iml" filepath="$PROJECT_DIR$/class10-11/class10-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class2/class2.iml" filepath="$PROJECT_DIR$/class2/class2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class3/class3.iml" filepath="$PROJECT_DIR$/class3/class3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class4-5/class4.iml" filepath="$PROJECT_DIR$/class4-5/class4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class6/class6-7.iml" filepath="$PROJECT_DIR$/class6/class6-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class7-8/class7-8.iml" filepath="$PROJECT_DIR$/class7-8/class7-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class9-10/class9-10.iml" filepath="$PROJECT_DIR$/class9-10/class9-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
