@@ -2,6 +2,13 @@ import java.util.ArrayList;
 
 public class class12 {
 
+    static void fun(int n){
+
+//        if(n==0) return;
+        System.out.println(n);
+        fun(n-1);
+    }
+
     static class myStack{
         int size;
         int[] stack;
