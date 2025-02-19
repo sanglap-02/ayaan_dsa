@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/assignmet2sol/assignmet2sol.iml" filepath="$PROJECT_DIR$/assignmet2sol/assignmet2sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignmnet1/assignmnet1.iml" filepath="$PROJECT_DIR$/assignmnet1/assignmnet1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ayaan DSA.iml" filepath="$PROJECT_DIR$/.idea/ayaan DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/class1/class1.iml" filepath="$PROJECT_DIR$/class1/class1.iml" />
       <module fileurl="file://$PROJECT_DIR$/class10-11/class10-11.iml" filepath="$PROJECT_DIR$/class10-11/class10-11.iml" />
@@ -9,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/class14-15/class14.iml" filepath="$PROJECT_DIR$/class14-15/class14.iml" />
       <module fileurl="file://$PROJECT_DIR$/class16/class16.iml" filepath="$PROJECT_DIR$/class16/class16.iml" />
       <module fileurl="file://$PROJECT_DIR$/class16b/class16b.iml" filepath="$PROJECT_DIR$/class16b/class16b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class18/class18.iml" filepath="$PROJECT_DIR$/class18/class18.iml" />
       <module fileurl="file://$PROJECT_DIR$/class2/class2.iml" filepath="$PROJECT_DIR$/class2/class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/class3/class3.iml" filepath="$PROJECT_DIR$/class3/class3.iml" />
       <module fileurl="file://$PROJECT_DIR$/class4-5/class4.iml" filepath="$PROJECT_DIR$/class4-5/class4.iml" />
